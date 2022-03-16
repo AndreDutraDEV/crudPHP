@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+
+main{
+  margin-top: 50px !important;
+}
+
+label{
+  width: 35px !important;
+  top: -20px !important;
+}
